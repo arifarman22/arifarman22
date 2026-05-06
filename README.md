@@ -2,7 +2,7 @@
 <h3 align="center">🤖 AI Engineer | 🌐 Full Stack Developer</h3>
 
 <p align="center">
-  <b>🎯 Open to Internships & Entry-Level Roles (AI / Backend / Full Stack)</b>
+  <b>🎯 Open to Entry-Level Roles (AI / Backend / Full Stack)</b>
 </p>
 
 <p align="center">
